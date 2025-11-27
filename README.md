@@ -1,4 +1,4 @@
-# 📈 StockGro: Advanced Time Series Analysis & Portfolio Optimization
+# 📈 Advanced Time Series Analysis & Portfolio Optimization
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
@@ -9,7 +9,7 @@
 
 ## 🎯 Project Overview
 
-StockGro is a sophisticated financial analysis project that implements a **multi-model ensemble approach** for stock price forecasting and portfolio optimization on NSE (National Stock Exchange) stocks. The project combines traditional econometric models with modern machine learning techniques to create robust investment strategies.
+It is a sophisticated financial analysis project that implements a **multi-model ensemble approach** for stock price forecasting and portfolio optimization on NSE (National Stock Exchange) stocks. The project combines traditional econometric models with modern machine learning techniques to create robust investment strategies.
 
 ### 🏆 Key Achievement
 - **Portfolio Performance**: +0.33% returns on ₹10,00,000 capital allocation
